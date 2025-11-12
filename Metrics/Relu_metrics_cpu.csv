@@ -1,0 +1,2 @@
+Model,Device,Perplexity,Inference Time (s),Std Dev (s),Latency (ms),Throughput (tokens/sec)
+../ML/LLM-s/test_relu/checkpoint-12500,CPU,49.604327611691126,1.7733033180236817,0.017268104486032745,17.733033180236816,338.35159157582274

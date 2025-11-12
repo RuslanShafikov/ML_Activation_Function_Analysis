@@ -1,0 +1,2 @@
+Model,Device,Perplexity,Inference Time (s),Std Dev (s),Latency (ms),Throughput (tokens/sec)
+./test_silu/checkpoint-12500,CPU,46.48101185855612,1.9016548633575439,0.09645078330849911,19.01654863357544,315.5146664945529
