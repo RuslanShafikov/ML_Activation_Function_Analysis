@@ -1,0 +1,5 @@
+name,Device,Inference_time,Price_per_month
+silu,CPU,1.9,1187.5
+gelu,CPU,1.93,1206.2499999999998
+relu,CPU,1.97,1231.25
+mish,CPU,2.05,1281.2499999999995
